@@ -94,8 +94,8 @@ about working independently and also as part of a team.
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/svg/354207/prestashop">
-  <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/svg/354207/prestashop">
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/354207/prestashop.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/show/354207/prestashop.svg">
   <img alt="Prestashop" width="60" height="60">
 </picture>
 &nbsp;&nbsp;
@@ -106,8 +106,8 @@ about working independently and also as part of a team.
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/svg/353804/google-analytics">
-  <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/svg/353804/google-analytics">
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/353804/google-analytics.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/show/353804/google-analytics.svg">
   <img alt="Google Analytics" width="60" height="60">
 </picture>
 &nbsp;&nbsp;
