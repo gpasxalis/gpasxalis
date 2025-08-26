@@ -94,18 +94,6 @@ about working independently and also as part of a team.
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
   <img alt="CSS3" width="60" height="60">
 </picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img alt="TailwindCSS" width="60" height="60">
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img alt="Bootstrap" width="60" height="60">
-</picture>
 
 <hr>
 
@@ -121,6 +109,18 @@ about working independently and also as part of a team.
   <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/354207/prestashop.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/show/354207/prestashop.svg">
   <img alt="Prestashop" width="60" height="60">
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img alt="TailwindCSS" width="60" height="60">
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img alt="Bootstrap" width="60" height="60">
 </picture>
 &nbsp;&nbsp;
 <picture>
