@@ -66,9 +66,21 @@ about working independently and also as part of a team.
 </picture>
 &nbsp;&nbsp;
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg">
+  <img alt="ElasticSearch" width="60" height="60">
+</picture>
+&nbsp;&nbsp;
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img alt="MySQL" width="60" height="60">
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img alt="MongoDB" width="60" height="60">
 </picture>
 &nbsp;&nbsp;
 <picture>
