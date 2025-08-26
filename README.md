@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on a Python project
 - 📫 You can reach me on my e-mail: gpasxalis94@gmail.com
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpasxalis)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 gpasxalis/gpasxalis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
