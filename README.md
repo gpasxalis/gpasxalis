@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World&animation=fadeIn&reversal=false)(#)
+[![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World&animation=fadeIn&reversal=false)(#)]
 
 
 ### Explore my Metrics 📈
