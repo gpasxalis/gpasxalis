@@ -5,7 +5,8 @@
 - 📫 You can reach me on my e-mail: gpasxalis94@gmail.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpasxalis)](https://github.com/anuraghazra/github-readme-stats)
+### Explore my Metrics 📈
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsimoglou&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 gpasxalis/gpasxalis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
