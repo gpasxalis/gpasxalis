@@ -1,4 +1,4 @@
-[![header]([https://capsule-render.vercel.app/api?type=venom&color=0:6f99b2,100:143f61&fontColor=ababab&height=225&section=header&text=Hello%20World%21&fontSize=80&fontAlign=27.25&fontAlignY=87.5&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World&animation=fadeIn&reversal=false))](#)
+[![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World&animation=fadeIn&reversal=false)(#)
 
 
 ### Explore my Metrics 📈
